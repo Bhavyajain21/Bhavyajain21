@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Bhavyajain21?tab=repositories)**
 
-- 📫 How to reach me **rishikabhavya@gmail.com**
+- 📫 Reach out to me at **rishikabhavya@gmail.com**
 
 <!-- - ⚡ Fun fact **I play games and go to the GYM very often.  ** -->
 
