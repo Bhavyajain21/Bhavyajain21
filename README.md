@@ -5,6 +5,7 @@
 
 
 ## 🙋‍♂️ About Me
+- 🚀 I am currently working as an SDE Intern at **[Zorp](https://www.zorp.one/)**
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
