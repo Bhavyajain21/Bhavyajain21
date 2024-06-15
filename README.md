@@ -5,7 +5,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🚀 I am currently working as an SDE Intern at **[JP Morgan Chase & Co.](https://www.jpmorganchase.com/)**
+- 🚀 I am currently working as an SDE at **[JP Morgan Chase & Co.](https://www.jpmorganchase.com/)**
 
 - 🔭 I’m currently working on **[Splitover](https://github.com/Bhavyajain21/splitwise)**
 
