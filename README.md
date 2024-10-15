@@ -3,6 +3,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhavya</h1>
 <h3 align="center">I'm a passionate Front End Web Developer from India.</h3>
 
+## ❤ Views and Followers
+<a href="https://github.com/Bhavyajain21/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Bhavyajain21">
+</a>
+<a href="https://github.com/Bhavyajain21?tab=followers"><img src="https://img.shields.io/github/followers/Bhavyajain21?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ## 🙋‍♂️ About Me
 - 🚀 I am currently working as an SDE at **[JP Morgan Chase & Co.](https://www.jpmorganchase.com/)**
@@ -67,9 +72,3 @@
 <a href = "https://www.linkedin.com/in/bhavya-jain-a87096190/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Bhavyajain21/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Bhavyajain21">
-</a>
-<a href="https://github.com/Bhavyajain21?tab=followers"><img src="https://img.shields.io/github/followers/Bhavyajain21?label=Followers&style=social" alt="GitHub Badge"></a>
