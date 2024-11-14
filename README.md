@@ -7,7 +7,6 @@
 <a href="https://github.com/Bhavyajain21/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Bhavyajain21">
 </a>
-<a href="https://github.com/Bhavyajain21?tab=followers"><img src="https://img.shields.io/github/followers/Bhavyajain21?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ## 🙋‍♂️ About Me
 - 🚀 I am currently working as an SDE at **[JP Morgan Chase & Co.](https://www.jpmorganchase.com/)**
